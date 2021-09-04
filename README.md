@@ -11,4 +11,4 @@ Sends lines of text to Rocket League's chat.
 2. Press CTRL + P to make the script write the next line of the text file
 
 ### To Add More Text Files:
-1. Get any text file (doesn't have to be RL really) with 1 line or more and put it into Game_Texts folder
+1. Get any text file (doesn't have to be Blaseball plays really) with 1 line or more and put it into Game_Texts folder
